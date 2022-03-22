@@ -1,8 +1,16 @@
 ##########################################################
 ### REFERENCE LIST 
 ##########################################################
-LAST UPDATED : 2022.03.22
+LAST UPDATED : 2022.03.23 am. 12:30
 
+0. email and user name 
+1. git init
+2. git status
+3. git add  .
+4. git commit -m "First Commit !!!" 
+5. git remote <remote url> 
+6. git push -u origin master 
+7. git pull origin master 
 ##########################################################
 
 >>> GitHub Quickstart Guide

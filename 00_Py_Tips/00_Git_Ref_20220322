@@ -40,3 +40,6 @@ LAST UPDATED : 2022.03.23 am. 12:30
 2. How to resolve ‘fatal: refusing to merge unrelated histories’
 
 - https://komodor.com/learn/how-to-fix-fatal-refusing-to-merge-unrelated-histories-error/#:~:text=The%20fatal%3A%20refusing%20to%20merge,the%20pull%20request%20or%20clone.
+
+
+>>> git pull origin master --allow-unrelated-histories
